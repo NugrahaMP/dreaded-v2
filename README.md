@@ -69,7 +69,7 @@
 apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
-git clone https://github.com/Fortunatusmokaya/dreaded-v2
+git clone https://github.com/NugrahaMP/dreaded-v2
 cd dreaded-v2
 npm install
 ```
